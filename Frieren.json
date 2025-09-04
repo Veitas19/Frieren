@@ -1,0 +1,43 @@
+{
+  "title": "Frieren",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "141": {
+      "title": "141",
+      "volume": "",
+      "last_updated": "1756958650",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "142": {
+      "title": "142",
+      "volume": "",
+      "last_updated": "1756958620",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/O5XlF9h"
+      }
+    },
+    "143": {
+      "title": "143",
+      "volume": "",
+      "last_updated": "1756958582",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45q3llq45"
+      }
+    },
+    "144": {
+      "title": "144",
+      "volume": "",
+      "last_updated": "1756958507",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bqnwlv75"
+      }
+    }
+  }
+}
